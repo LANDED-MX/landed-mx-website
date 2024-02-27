@@ -1,0 +1,9 @@
+.main-background-color {
+  background-color: var(--main-color);
+}
+
+:root {
+  --main-color: #182a3e;
+  --submain-color: #0f3c59;
+}
+
