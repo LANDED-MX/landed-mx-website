@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  margin-top: 97px;
+}
+
+.header-container {
+  /*background: url(../../assets/img/math-header.png?h=5d45b6e66ef4300a47da45c7b8f71b08) no-repeat center center;*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 50px 0 300px 0;
+  height: auto;
+}
+
+.header-buttons {
+  text-align: center;
+}
+
